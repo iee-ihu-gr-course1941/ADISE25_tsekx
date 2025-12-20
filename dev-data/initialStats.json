@@ -1,0 +1,167 @@
+{
+  "_id": "boardLayout_backgammon_200x250_centered",
+  "name": "backgammon_standard_200x250_centered",
+  "panel": { "width": 200, "height": 250 },
+  "margin": 10,
+  "tileCount": 30,
+  "tiles": [
+    {
+      "index": 1,
+      "color": "white",
+      "pos": { "x": -91.7, "y": 0.0, "z": 116.7 }
+    },
+    {
+      "index": 2,
+      "color": "white",
+      "pos": { "x": -91.7, "y": 0.0, "z": 100.0 }
+    },
+
+    {
+      "index": 3,
+      "color": "white",
+      "pos": { "x": -8.3, "y": 0.0, "z": -116.7 }
+    },
+    {
+      "index": 4,
+      "color": "white",
+      "pos": { "x": -8.3, "y": 0.0, "z": -100.0 }
+    },
+    {
+      "index": 5,
+      "color": "white",
+      "pos": { "x": -8.3, "y": 0.0, "z": -83.3 }
+    },
+    {
+      "index": 6,
+      "color": "white",
+      "pos": { "x": -8.3, "y": 0.0, "z": -67.7 }
+    },
+    {
+      "index": 7,
+      "color": "white",
+      "pos": { "x": -8.3, "y": 0.0, "z": -50.0 }
+    },
+
+    {
+      "index": 8,
+      "color": "white",
+      "pos": { "x": 24.9, "y": 0.0, "z": 116.7 }
+    },
+    {
+      "index": 9,
+      "color": "white",
+      "pos": { "x": 24.9, "y": 0.0, "z": 100.0 }
+    },
+    {
+      "index": 10,
+      "color": "white",
+      "pos": { "x": 24.9, "y": 0.0, "z": 83.3 }
+    },
+
+    {
+      "index": 11,
+      "color": "white",
+      "pos": { "x": 91.7, "y": 0.0, "z": -116.7 }
+    },
+    {
+      "index": 12,
+      "color": "white",
+      "pos": { "x": 91.7, "y": 0.0, "z": -100.0 }
+    },
+    {
+      "index": 13,
+      "color": "white",
+      "pos": { "x": 91.7, "y": 0.0, "z": -83.3 }
+    },
+    {
+      "index": 14,
+      "color": "white",
+      "pos": { "x": 91.7, "y": 0.0, "z": -67.7 }
+    },
+    {
+      "index": 15,
+      "color": "white",
+      "pos": { "x": 91.7, "y": 0.0, "z": -50.0 }
+    },
+
+    {
+      "index": 16,
+      "color": "black",
+      "pos": { "x": -91.7, "y": 0.0, "z": -116.7 }
+    },
+    {
+      "index": 17,
+      "color": "black",
+      "pos": { "x": -91.7, "y": 0.0, "z": -100.0 }
+    },
+
+    {
+      "index": 18,
+      "color": "black",
+      "pos": { "x": -8.3, "y": 0.0, "z": 116.7 }
+    },
+    {
+      "index": 19,
+      "color": "black",
+      "pos": { "x": -8.3, "y": 0.0, "z": 100.0 }
+    },
+    {
+      "index": 20,
+      "color": "black",
+      "pos": { "x": -8.3, "y": 0.0, "z": 83.3 }
+    },
+    {
+      "index": 21,
+      "color": "black",
+      "pos": { "x": -8.3, "y": 0.0, "z": 66.7 }
+    },
+    {
+      "index": 22,
+      "color": "black",
+      "pos": { "x": -8.3, "y": 0.0, "z": 50.0 }
+    },
+
+    {
+      "index": 23,
+      "color": "black",
+      "pos": { "x": 24.9, "y": 0.0, "z": -116.7 }
+    },
+    {
+      "index": 24,
+      "color": "black",
+      "pos": { "x": 24.9, "y": 0.0, "z": -100.0 }
+    },
+    {
+      "index": 25,
+      "color": "black",
+      "pos": { "x": 24.9, "y": 0.0, "z": -83.3 }
+    },
+
+    {
+      "index": 26,
+      "color": "black",
+      "pos": { "x": 91.7, "y": 0.0, "z": 116.7 }
+    },
+    {
+      "index": 27,
+      "color": "black",
+      "pos": { "x": 91.7, "y": 0.0, "z": 100.0 }
+    },
+    {
+      "index": 28,
+      "color": "black",
+      "pos": { "x": 91.7, "y": 0.0, "z": 83.3 }
+    },
+    {
+      "index": 29,
+      "color": "black",
+      "pos": { "x": 91.7, "y": 0.0, "z": 66.7 }
+    },
+    {
+      "index": 30,
+      "color": "black",
+      "pos": { "x": 91.7, "y": 0.0, "z": 50.0 }
+    }
+  ],
+  "createdAt": "2025-12-08T00:00:00Z"
+}

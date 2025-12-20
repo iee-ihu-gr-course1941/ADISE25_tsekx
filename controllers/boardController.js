@@ -1,0 +1,37 @@
+const Layout = require("./../models/boardLayout");
+
+const laout = new Layout({
+  _id: "boardLayout_standard",
+  name: "standard_200x250",
+  panel: { width: 200, height: 250 },
+  margin: 10,
+  tileCount: 24,
+  tiles: [
+    { index: 0, pos: { x: 10.0, y: 40.0, z: 0.0 } },
+    { index: 1, pos: { x: 26.36, y: 40.0, z: 0.0 } },
+    { index: 2, pos: { x: 42.73, y: 40.0, z: 0.0 } },
+    { index: 3, pos: { x: 59.09, y: 40.0, z: 0.0 } },
+    { index: 4, pos: { x: 75.45, y: 40.0, z: 0.0 } },
+    { index: 5, pos: { x: 91.82, y: 40.0, z: 0.0 } },
+    { index: 6, pos: { x: 108.18, y: 40.0, z: 0.0 } },
+    { index: 7, pos: { x: 124.55, y: 40.0, z: 0.0 } },
+    { index: 8, pos: { x: 140.91, y: 40.0, z: 0.0 } },
+    { index: 9, pos: { x: 157.27, y: 40.0, z: 0.0 } },
+    { index: 10, pos: { x: 173.64, y: 40.0, z: 0.0 } },
+    { index: 11, pos: { x: 190.0, y: 40.0, z: 0.0 } },
+
+    { index: 12, pos: { x: 10.0, y: 210.0, z: 0.0 } },
+    { index: 13, pos: { x: 26.36, y: 210.0, z: 0.0 } },
+    { index: 14, pos: { x: 42.73, y: 210.0, z: 0.0 } },
+    { index: 15, pos: { x: 59.09, y: 210.0, z: 0.0 } },
+    { index: 16, pos: { x: 75.45, y: 210.0, z: 0.0 } },
+    { index: 17, pos: { x: 91.82, y: 210.0, z: 0.0 } },
+    { index: 18, pos: { x: 108.18, y: 210.0, z: 0.0 } },
+    { index: 19, pos: { x: 124.55, y: 210.0, z: 0.0 } },
+    { index: 20, pos: { x: 140.91, y: 210.0, z: 0.0 } },
+    { index: 21, pos: { x: 157.27, y: 210.0, z: 0.0 } },
+    { index: 22, pos: { x: 173.64, y: 210.0, z: 0.0 } },
+    { index: 23, pos: { x: 190.0, y: 210.0, z: 0.0 } },
+  ],
+  createdAt: "2025-12-08T00:00:00Z",
+});

@@ -1,0 +1,16 @@
+{
+  "allowedUsers": [
+    {
+      "id": 1,
+      "username": "userA",
+      "password": "passA123",
+      "email": "userA@example.com"
+    },
+    {
+      "id": 2,
+      "username": "userB",
+      "password": "passB123",
+      "email": "userB@example.com"
+    }
+  ]
+}
